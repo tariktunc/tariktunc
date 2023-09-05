@@ -3,7 +3,7 @@
 
 <p align="center">I am continuously improving myself in technologies such as JavaScript, React, and Next.js. In addition to my problem-solving skills, I have experience in collaborating effectively in a team environment and am eager to do so. I make consistent efforts to enhance my skills and strive to stay up-to-date with the latest web development trends. I am eagerly looking forward to contributing to the success of a dynamic and innovative company by leveraging my knowledge and experience.</p>
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React Tailwind Sass Javascript Nextjs**
 
 - 📫 How to reach me **tarktunc@hotmail.com**
 
