@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tarktunc/](https://www.linkedin.com/in/tarktunc/)
 
+- 💬 <a href="https://blakfy.com" target="blank">Blakfy.com</a>
+
 - <p align="left"> <a href="https://twitter.com/tarkktunc" target="blank"><img src="https://img.shields.io/twitter/follow/tarkktunc?logo=twitter&style=for-the-badge" alt="tarkktunc" /></a> </p>
 
 
