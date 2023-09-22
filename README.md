@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarik</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="center">I am continuously improving myself in technologies such as JavaScript, React, and Next.js. In addition to my problem-solving skills, I have experience in collaborating effectively in a team environment and am eager to do so. I make consistent efforts to enhance my skills and strive to stay up-to-date with the latest web development trends. I am eagerly looking forward to contributing to the success of a dynamic and innovative company by leveraging my knowledge and experience.</p>
+<p align="center"> I am Tarik Tunc, a freshman student in Computer Programming at Istanbul University. I am continuously improving myself in technologies such as JavaScript, React, and Next.js. In addition to my problem-solving skills, I have experience in collaborating effectively in a team environment and am eager to do so. I make consistent efforts to enhance my skills and strive to stay up-to-date with the latest web development trends. I am eagerly looking forward to contributing to the success of a dynamic and innovative company by leveraging my knowledge and experience.</p>
 
 - 💬 Ask me about **React Tailwind Sass Javascript Nextjs**
 
