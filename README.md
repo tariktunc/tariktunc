@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tarık Tunç</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
-
-<p align="center"> I am Tarık Tunç , a freshman student in Computer Programming at Istanbul University. I am continuously improving myself in technologies such as JavaScript, React, and Next.js. In addition to my problem-solving skills, I have experience in collaborating effectively in a team environment and am eager to do so. I make consistent efforts to enhance my skills and strive to stay up-to-date with the latest web development trends. I am eagerly looking forward to contributing to the success of a dynamic and innovative company by leveraging my knowledge and experience.</p>
+<p align="center"> Holding a degree in Aviation Management from Anadolu University and currently working in the field of front-end development, he is studying Computer Programming at Istanbul University.</p>
 
 - 💬 Ask me about **React Tailwind Sass Javascript Nextjs**
 
 - 📫 How to reach me **tarktunc@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tarktunc/](https://www.linkedin.com/in/tarktunc/)
+- 📄 CV <a href="https://www.linkedin.com/in/tarktunc/">Linkedin</a>
 
-- 💬 <a href="https://blakfy.com" target="blank">Blakfy.com</a>
+- 💬 Freelancer <a href="https://blakfy.com" target="blank">Blakfy.com</a>
 
 - <p align="left"> <a href="https://twitter.com/tarkktunc" target="blank"><img src="https://img.shields.io/twitter/follow/tarkktunc?logo=twitter&style=for-the-badge" alt="tarkktunc" /></a> </p>
 
