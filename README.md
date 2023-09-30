@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tarik Tunc</h1>
+<h1 align="center">Hi 👋, I'm TARIK TUNC</h1>
 <p align="center"> Holding a degree in Aviation Management from Anadolu University and currently working in the field of front-end development, he is studying Computer Programming at Istanbul University.</p>
 
 - 💬 Ask me about **React Tailwind Sass Javascript Nextjs**
