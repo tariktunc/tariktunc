@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm TARIK TUNC</h1>
-<p align="center"> Holding a degree in Aviation Management from Anadolu University and currently working in the field of front-end development, he is studying Computer Programming at Istanbul University.</p>
-
-- 💬 Ask me about **React Tailwind Sass Javascript Nextjs**
+<h1 >Hi 👋, I'm Tarik</h1>
+<p>Junior Frontend Developer</p>
+<p>- Currently working on React and JavaScript</p>
+<p>- I'm working as a freelance Software Developer</p>
+<p>- I'm working on developing myself in the frontend field as best as I can.</p>
 
 - 📫 How to reach me **tarktunc@hotmail.com**
 
-- 📄 CV <a href="https://www.linkedin.com/in/tarktunc/">Linkedin</a>
+- 📄<a href="https://www.linkedin.com/in/tarktunc/">Linkedin</a>
 
 - 💬 Freelancer <a href="https://blakfy.com" target="blank">Blakfy.com</a>
 
