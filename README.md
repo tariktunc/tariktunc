@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Tarik</h1>
-<p>Junior Frontend Developer</p>
+  <h2>Junior Frontend Developer</h2>
+  
 <p>- Currently working on React and JavaScript</p>
-<p>- I'm working as a freelance Software Developer</p>
-<p>
-  - I'm working on developing myself in the frontend field as best as I can.
-</p>
+<p>- Works as a freelance Software Developer</p>
+<p>- Works on developing himself in the frontend field as best as he can</p>
+
 <p>- 📫<a href="tarktunc@hotmail.com">How to reach me Mail</a></p>
 <p>- 📄<a href="https://www.linkedin.com/in/tarktunc/">Linkedin</a></p>
 <p>
