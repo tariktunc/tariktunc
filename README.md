@@ -22,9 +22,11 @@
 ## Languages and Tools:
 [![Front](https://skillicons.dev/icons?i=html,css,sass,tailwind)](https://github.com/tariktunc)
 <br>
+[![Other](https://skillicons.dev/icons?i=github,git,linux)](https://github.com/tariktunc)
+<br>
 [![Main](https://skillicons.dev/icons?i=js,react,nextjs,express,redux)](https://github.com/tariktunc)
 <br>
-[![Other](https://skillicons.dev/icons?i=github,git,c,linux,mongodb,nodejs,ts)](https://github.com/tariktunc)
+[![Other](https://skillicons.dev/icons?i=c,mongodb,nodejs,ts)](https://github.com/tariktunc)
 
 ---
 
