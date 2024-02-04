@@ -16,7 +16,7 @@
 [![Dev](https://skillicons.dev/icons?i=devto)](https://dev.to/tariktunc)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/tarkktunc)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tarktunc/)
-[![Stackover](https://skillicons.dev/icons?i=stackoverflow)](https://stackexchange.com/users/27971859/tar%C4%B1k-tunc?tab=top)
+[![Stackover](https://stackoverflow.com/users/21361438/tar%c4%b1k-tunc)](https://stackexchange.com/users/27971859/tar%C4%B1k-tunc?tab=top)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/invite/kZWEEvmQAK)
 
 ## Languages and Tools:
