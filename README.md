@@ -9,7 +9,7 @@
 - Works on developing himself in the frontend field as best as he can
 
 
-- 📫[How to reach me Mail](tarktunc@hotmail.com)
+- 📫[How to reach me Mail](bilgi@tariktunc.com)
 - 📄[Linkedin](https://www.linkedin.com/in/tarktunc/)
 - 💬[Freelancer Blakfy.com](https://blakfy.com)
 - 💬[Blog Web Site tariktunc.com](https://tariktunc.com)
