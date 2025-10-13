@@ -12,7 +12,7 @@
 - 📫[How to reach me Mail](bilgi@tariktunc.com)
 - 📄[Linkedin](https://www.linkedin.com/in/tarktunc/)
 - 💬[Freelancer Blakfy.com](https://blakfy.com)
-- 💬[Blog Web Site tariktunc.com](https://tariktunc.com)
+- 💬[Blog Web Site tariktunc.com](https://www.blakfy.com/blog)
 
 ## Connect with me:
 [![Dev](https://skillicons.dev/icons?i=devto)](https://dev.to/tariktunc)
