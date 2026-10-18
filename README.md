@@ -2,36 +2,36 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img alt="Tarik Tunc — Studio & Engineering" src="assets/banner-light.svg" width="100%">
+    <img alt="Tarik Tunc — Projeler ve Araçlar" src="assets/banner-light.svg" width="100%">
   </picture>
 </p>
 
-> **Yazılım Mühendisliği, Yüksek Performanslı Masaüstü Sistemleri ve Erişilebilirlik Mimarisi**  
-> Masaüstü araçları (Electron, Rust, Swift), modern web bileşenleri ve uluslararası standartlara (WCAG 2.2 AA, EAA 2025, KVKK/GDPR) tam uyumlu bağımsız yazılımlar geliştiriyorum.
+> **Masaüstü Araçları, Web Bileşenleri ve Açık Kaynak Projeler**  
+> Electron, Rust ve Swift ile yerel masaüstü uygulamaları; web standartlarına (WCAG 2.2 AA, EAA 2025, KVKK/GDPR) tam uyumlu hafif bileşenler geliştiriyorum.
 
 ---
 
-## Öne Çıkan Ürünler ve Sistemler
+## Projeler ve Araçlar
 
-| Proje / Sistem | Açıklama ve Temel Yetenekler | Teknoloji Yığını | Canlı ve Dokümantasyon |
+| Proje | Ne İşe Yarar? | Altyapı | Bağlantılar |
 |---|---|---|---|
-| **Polaris** | Akıllı ekran kaydı ve kurgu stüdyosu. Otomatik tıklama zoom'u, 120 Hz imleç yumuşatma, dinamik kamera balonu ve kayıpsız WASAPI çift kanal ses senkronu. %100 yerel ve gizlilik odaklı. | `TypeScript` `Electron` `Rust` `Swift` `FFmpeg` | [Canlı İndirme Sayfası](https://tariktunc.github.io/polaris-app/)<br>[v0.1.0-beta Sürümü](https://github.com/tariktunc/polaris-app/releases/tag/v0.1.0-beta)<br>[Kaynak Reposu](https://github.com/tariktunc/polaris-app) |
-| **Accessibility Widget** | WCAG 2.2 AA ve EAA 2025 uyumlu yerel kullanıcı tercih paneli. Overlay anti-pattern içermez; 7 erişilebilirlik tercihi, 9 dil ve işletim sistemi sinyallerine saygılı mimari. | `Preact` `Web Components` `Shadow DOM` `WCAG 2.2 AA` | [Dokümantasyon & Kod](https://github.com/tariktunc/accessibility-widget)<br>[NPM Paketi](https://www.npmjs.com/package/@blakfy/accessibility-widget) |
-| **Blakfy Cookie Consent** | KVKK, GDPR ve CCPA regülasyonlarına uyumlu, sıfır bağımlılıklı çerez onay çözümü. 23 dil desteği, 18 hazır stil şablonu ve otomatik script/iframe engelleme (tag-gating). | `Vanilla JS` `CSS Variables` `Tag-Gating` | [Dokümantasyon & Kod](https://github.com/tariktunc/blakfy-cookie) |
-| **NexusDeck** | Masaüstü üretkenlik ve iş akışı yönetim merkezi. Arka plan otomatik güncelleme motoru ve Ed25519 kriptografik imza doğrulama desteği. | `Rust` `Win32 API` `Ed25519` `Auto-Update` | [En Son Sürümler](https://github.com/tariktunc/nexusdeck-releases/releases/latest)<br>[Sürüm Reposu](https://github.com/tariktunc/nexusdeck-releases) |
-| **Blakfy Footer** | Kurumsal ve bağımsız web platformları için çok dilli, mevzuata uygun künye ve yasal alt bilgi bileşeni. | `JavaScript` `Custom Elements` `Responsive` | [Dokümantasyon & Kod](https://github.com/tariktunc/blakfy-footer) |
+| **Polaris** | Akıllı ekran kaydı ve kurgu aracı. Otomatik tıklama zoom'u, 120 Hz imleç yumuşatma, dinamik kamera balonu ve kayıpsız WASAPI çift kanal ses senkronu. Tamamen çevrimdışı çalışır. | `TypeScript` `Electron` `Rust` `Swift` `FFmpeg` | [İndirme Sayfası](https://tariktunc.github.io/polaris-app/)<br>[v0.1.0-beta Sürümü](https://github.com/tariktunc/polaris-app/releases/tag/v0.1.0-beta)<br>[GitHub Reposu](https://github.com/tariktunc/polaris-app) |
+| **Accessibility Widget** | WCAG 2.2 AA ve EAA 2025 uyumlu yerel kullanıcı tercih paneli. Sahte kaplama (overlay) içermez; 7 erişilebilirlik tercihi, 9 dil ve işletim sistemi ayarlarına tam uyum. | `Preact` `Web Components` `Shadow DOM` `WCAG 2.2 AA` | [Canlı Demo](https://tariktunc.github.io/accessibility-widget/)<br>[Dokümantasyon](https://github.com/tariktunc/accessibility-widget)<br>[NPM Paketi](https://www.npmjs.com/package/@blakfy/accessibility-widget) |
+| **Blakfy Cookie Consent** | KVKK, GDPR ve CCPA uyumlu, sıfır bağımlılıklı çerez onay aracı. 23 dil desteği, 18 hazır stil şablonu ve otomatik script engelleme (tag-gating). | `Vanilla JS` `CSS Variables` `Tag-Gating` | [Dokümantasyon](https://github.com/tariktunc/blakfy-cookie) |
+| **NexusDeck** | Masaüstü iş akışı ve üretkenlik aracı. Arka planda sessiz otomatik güncelleme ve Ed25519 imza doğrulaması. | `Rust` `Win32 API` `Ed25519` `Auto-Update` | [Sürümler ve İndir](https://github.com/tariktunc/nexusdeck-releases/releases/latest)<br>[Sürüm Reposu](https://github.com/tariktunc/nexusdeck-releases) |
+| **Blakfy Footer** | Web siteleri için çok dilli, yasal mevzuata uygun künye ve alt bilgi bileşeni. | `JavaScript` `Custom Elements` `Responsive` | [Dokümantasyon](https://github.com/tariktunc/blakfy-footer) |
 
 ---
 
-## Mühendislik Yaklaşımı ve Prensipler
+## Mimari ve Standartlar
 
-* **Yerel ve Cihaz Üstü (On-Device) Önceliği**: Kullanıcı verisini asla gereksiz yere buluta taşımayan, düşük kaynak tüketimiyle doğrudan donanım üzerinde çalışan optimizasyonlar.
-* **Standartlara Tam Uyum**: Yapay zeka manipülasyonu veya yanıltıcı erişilebilirlik kaplamaları (overlay) yerine W3C WCAG 2.2, EN 301 549 ve yasal gizlilik kurallarına tam riayet.
-* **Çoklu Platform ve Hibrit Altyapı**: Kullanıcı arayüzünde modern web teknolojileri, çekirdek yakalama ve sistem seviyesi işlevlerde Rust ve Swift yerel modülleri.
+* **Çevrimdışı ve Cihaz Üstü (Offline-First)**: Kullanıcı verisini sunuculara göndermeden, düşük kaynak tüketimiyle doğrudan bilgisayarınızda çalışan araçlar.
+* **Standartlara Tam Uyum**: Yapay zeka aldatmacaları veya sahte kaplamalar (overlay) yerine W3C WCAG 2.2 ve yasal gizlilik kurallarına doğrudan uyum.
+* **Modern Web + Native Performans**: Arayüzde hafif web bileşenleri; sistem seviyesi işlevlerde Rust ve Swift yerel modülleri.
 
 ---
 
-## İletişim ve Lisans
+## İletişim
 
 * **E-Posta**: [info@blakfy.com](mailto:info@blakfy.com)
 * **GitHub**: [@tariktunc](https://github.com/tariktunc)
